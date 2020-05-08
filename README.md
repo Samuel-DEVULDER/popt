@@ -1,6 +1,7 @@
 # Popt
 Source code for the 680x0 Peephole OPTimizer (http://aminet.net/package/dev/asm/popt)
 
+```
 Short:    A powerfull assembly source optimizer - v1.0b
 Author:   devulder@info.unicaen.fr      (Samuel DEVULDER)
 Uploader: devulder info unicaen fr      (Samuel DEVULDER)
@@ -63,3 +64,4 @@ Architecture: m68k-amigaos
 _________________
 * The star indicates that the code uses special 68020+ instructions or
   addressing modes.
+```
